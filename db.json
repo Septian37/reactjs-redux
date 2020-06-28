@@ -1,0 +1,95 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "name": "Septian",
+          "address": "Batu Aji",
+          "age": 26,
+          "phone": "082392136378"
+        },
+        {
+          "id": 2,
+          "name": "Manda",
+          "address": "Batam Centre",
+          "age": 25,
+          "phone": "082392136378"
+        },
+        {
+          "id": 3,
+          "name": "Tian",
+          "address": "Nagoya",
+          "age": 24,
+          "phone": "082392136378"
+        },
+        {
+          "id": 4,
+          "name": "Tian",
+          "address": "Nagoya",
+          "age": 24,
+          "phone": "082392136378"
+        },
+        {
+          "id": 5,
+          "name": "Tian",
+          "address": "Nagoya",
+          "age": 24,
+          "phone": "082392136378"
+        },
+        {
+          "id": 6,
+          "name": "Tian",
+          "address": "Nagoya",
+          "age": 24,
+          "phone": "082392136378"
+        },
+        {
+          "id": 7,
+          "name": "Tian",
+          "address": "Nagoya",
+          "age": 24,
+          "phone": "082392136378"
+        },
+        {
+          "id": 8,
+          "name": "Tian",
+          "address": "Nagoya",
+          "age": 24,
+          "phone": "082392136378"
+        },
+        {
+          "id": 9,
+          "name": "Tian",
+          "address": "Nagoya",
+          "age": 24,
+          "phone": "082392136378"
+        },
+        {
+          "id": 10,
+          "name": "Tian",
+          "address": "Nagoya",
+          "age": 24,
+          "phone": "082392136378"
+        },
+        {
+          "id": 11,
+          "name": "Tian",
+          "address": "Nagoya",
+          "age": 24,
+          "phone": "082392136378"
+        },
+        {
+          "id": 12,
+          "name": "Tian",
+          "address": "Nagoya",
+          "age": 24,
+          "phone": "082392136378"
+        },
+        {
+          "id": 13,
+          "name": "Tian",
+          "address": "Nagoya",
+          "age": 24,
+          "phone": "082392136378"
+        }
+      ]
+}
